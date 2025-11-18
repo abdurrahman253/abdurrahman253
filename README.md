@@ -43,11 +43,12 @@ const abdurRahman = {
 
 ### 🌟 Journey Highlights
 
-- 🕌 **From Qawmi Madrasa → JavaScript Lover**
+- 🎓 **Self-Taught Developer with Unique Background**
 - 💼 **Learn Every Single Day, No Matter What**
 - 🚀 **Code Between Work Shifts Daily**
 - 🎨 **Complex Topics → Simple Solutions**
 - 🌐 **Improving English & Building Projects**
+- 💡 **From Zero to MERN Stack Developer**
 
 <br clear="right"/>
 
@@ -61,7 +62,7 @@ const abdurRahman = {
 
 ### 💻 Frontend Development
 <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,tailwind,bootstrap,sass,figma&theme=dark" />
 </p>
 
 ### ⚙️ Backend & Database
@@ -71,7 +72,14 @@ const abdurRahman = {
 
 ### 🔧 Tools & Technologies
 <p>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,vercel&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,yarn,postman,vercel,netlify,linux,docker&theme=dark" />
+</p>
+
+### 🎨 UI Libraries & Frameworks
+<p>
+    <img src="https://skillicons.dev/icons?i=materialui,chakra&theme=dark" />
+    <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI" />
+    <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white" alt="Ant Design" />
 </p>
 
 </div>
@@ -138,6 +146,10 @@ const abdurRahman = {
 
 *"Turning complex topics into simple, clean solutions"*
 
+**Never Stop Learning**
+
+*"Self-taught developer with unstoppable curiosity"*
+
 </td>
 <td width="50%" align="center">
 
@@ -154,6 +166,8 @@ const abdurRahman = {
 ✅ Plan and execute new projects
 
 ✅ Explore AI tools and technologies
+
+✅ Practice DSA & System Design
 
 </td>
 </tr>
