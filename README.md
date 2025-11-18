@@ -62,29 +62,30 @@ const abdurRahman = {
 
 ### 💻 Frontend Development
 <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,tailwind,bootstrap,sass,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,figma&perline=8&theme=dark" />
 </p>
 
 ### ⚙️ Backend & Database
 <p>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&perline=6&theme=dark" />
 </p>
 
 ### 🔧 Tools & Technologies
 <p>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,yarn,postman,vercel,netlify,linux,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,vercel,netlify&perline=8&theme=dark" />
 </p>
 
 ### 🎨 UI Libraries & Frameworks
 <p>
-    <img src="https://skillicons.dev/icons?i=materialui,chakra&theme=dark" />
-    <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI" />
-    <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white" alt="Ant Design" />
+  <img src="https://skillicons.dev/icons?i=materialui,chakra&theme=dark" />
+  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI" />
+  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white" alt="Ant Design" />
 </p>
 
-</div>
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</div>
 
 ---
 
@@ -211,6 +212,65 @@ graph LR
 - 🤖 AI/ML Fundamentals
 - 📊 Data Structures & Algorithms
 - 🏗️ System Design Patterns
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+---
+
+## 🎨 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎮 Play Hub
+[![Play Hub](https://github-readme-stats.vercel.app/api/pin/?username=abdurrahman253&repo=play-hub&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/abdurrahman253/play-hub)
+
+**Tech Stack:** React • Node.js • MongoDB • Express
+
+A comprehensive gaming platform with modern features and smooth user experience.
+
+🔗 [View Project →](https://github.com/abdurrahman253/play-hub)
+
+</td>
+<td width="50%">
+
+### 🚗 Car Hub Client
+[![Car Hub](https://github-readme-stats.vercel.app/api/pin/?username=abdurrahman253&repo=car-hub-client&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/abdurrahman253/car-hub-client)
+
+**Tech Stack:** React • Firebase • Tailwind CSS
+
+Modern car marketplace application with real-time updates and intuitive design.
+
+🔗 [View Project →](https://github.com/abdurrahman253/car-hub-client)
+
+</td>
+</tr>
+<tr>
+<td width="50%" colspan="2" align="center">
+
+### 🦸 Hero Apps
+[![Hero Apps](https://github-readme-stats.vercel.app/api/pin/?username=abdurrahman253&repo=Hero-Apps&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/abdurrahman253/Hero-Apps)
+
+**Tech Stack:** MERN Stack • REST API • Modern UI
+
+Full-stack application showcasing complete MERN stack implementation.
+
+🔗 [View Project →](https://github.com/abdurrahman253/Hero-Apps)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 📌 More Projects
+
+[![Explore More](https://img.shields.io/badge/Explore_More_Projects-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdurrahman253?tab=repositories)
 
 </div>
 
