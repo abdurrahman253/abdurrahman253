@@ -1,375 +1,158 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abdur%20Rahman&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=MERN%20Stack%20Developer%20|%20Building%20Digital%20Solutions&descSize=18&descAlignY=55)
+# Abdur Rahman
+### MERN Stack Developer · UI Engineer · Bangladesh 🇧🇩
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=DC2626&center=true&vCenter=true&width=680&height=60&lines=Building+high-performance+web+applications;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Smooth+animations+%26+polished+UX;From+Madrasa+to+Full-Stack+%E2%80%94+Driven+by+Discipline)](https://github.com/abdurrahman253)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abdurrahman253-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdurrahman253/)
+[![Twitter](https://img.shields.io/badge/Twitter-AbdurRahma91153-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/AbdurRahma91153)
+[![Email](https://img.shields.io/badge/Email-abrahman5676%40gmail.com-DC2626?style=flat-square&logo=gmail&logoColor=white)](mailto:abrahman5676@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-DC2626?style=flat-square&logo=vercel&logoColor=white)](https://github.com/abdurrahman253)
+![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square)
 
 </div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=100&lines=Hi%2C+I'm+Abdur+Rahman+%F0%9F%91%8B;MERN+Stack+Developer+%F0%9F%92%BB;Building+Scalable+Web+Solutions+%F0%9F%9A%80;AI+Enthusiast+%26+Problem+Solver+%F0%9F%A4%96;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1;Code+Between+Work+Shifts+%F0%9F%92%AA" alt="Typing SVG" />
-
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=abdurrahman253&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/abdurrahman253)
-[![GitHub followers](https://img.shields.io/github/followers/abdurrahman253?label=Followers&style=for-the-badge&color=00d9ff&logo=github)](https://github.com/abdurrahman253?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/abdurrahman253?label=Total%20Stars&style=for-the-badge&color=00d9ff&logo=github)](https://github.com/abdurrahman253)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+## Who I Am
 
-## 🎯 About Me
+I'm a self-taught MERN Stack Developer based in Dhaka, Bangladesh. I began coding at the start of 2025, coming from a Qawmi Madrasa background — and that academic foundation gave me something most developers underestimate: the discipline to go deep on difficult subjects, the patience to understand systems fully, and the habit of consistent daily practice.
 
-```javascript
-const abdurRahman = {
-    name: "Abdur Rahman",
-    role: "MERN Stack Developer",
-    location: "Bangladesh 🇧🇩",
-    currentFocus: "Backend with Node.js",
-    learning: ["Node.js", "Express.js", 
-               "MongoDB", "System Design"],
-    nextGoal: ["Full Stack Mastery", 
-               "Python", "AI/ML"],
-    passions: ["Clean Code", 
-               "AI Technology", 
-               "Problem Solving"],
-    motto: "Discipline beats talent 💪"
+In under a year, I went from zero programming knowledge to building full-stack applications with authentication, payment integrations, real-time features, and production-grade UX — including animated portfolios, marketplace platforms, and multi-role dashboards.
+
+I build things that are fast, polished, and architected to scale.
+
+---
+
+## Development Philosophy
+
+```ts
+const philosophy = {
+  code:    "Readable before clever. Simple before complex.",
+  design:  "Every pixel and transition should feel intentional.",
+  growth:  "Depth over breadth — master the fundamentals, everything else follows.",
+  process: "Ship real things. Feedback from production beats theory every time.",
+  mindset: "Discipline is the system. Curiosity is the fuel.",
 };
 ```
 
-### 🌟 Journey Highlights
-
-- 🎓 **Self-Taught Developer with Unique Background**
-- 💼 **Learn Every Single Day, No Matter What**
-- 🚀 **Code Between Work Shifts Daily**
-- 🎨 **Complex Topics → Simple Solutions**
-- 🌐 **Improving English & Building Projects**
-- 💡 **From Zero to MERN Stack Developer**
-
-<br clear="right"/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+I don't chase trends. I understand the **why** behind the tools I use — from how GSAP's ticker works under the hood, to why Lenis smooths scroll by overriding native behavior, to how JWT stateless auth differs from session-based systems. That depth shows up in the quality of the work.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack
 
-<div align="center">
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### 💻 Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,figma&perline=8&theme=dark" />
-</p>
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-D63AFF?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
-### ⚙️ Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&perline=6&theme=dark" />
-</p>
-
-### 🔧 Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,vercel,netlify&perline=8&theme=dark" />
-</p>
-
-### 🎨 UI Libraries & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=materialui,chakra&theme=dark" />
-  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI" />
-  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white" alt="Ant Design" />
-</p>
-
-<br/>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
-
-</div>
+### Tooling & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-BD34FE?style=flat-square&logo=vite&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![React Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
 
 ---
 
-## 📊 GitHub Statistics
+## What I Actually Build
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdurrahman253&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=abdurrahman253&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
-</div>
+I don't build tutorial projects. Every project I've shipped solves a real problem and demonstrates a real capability.
 
-<br/>
+**ScholarStream** — A full-stack scholarship management platform with role-based access control, Stripe payment processing, applicant-organization matching across 500+ scholarships, and a real-time analytics dashboard. Built with the full MERN stack, Firebase Auth, TanStack Query, and React Hook Form.
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrahman253&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=10&hide=jupyter%20notebook" alt="Top Languages"/>
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=abdurrahman253&limit=5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF" alt="Contribution Stats"/>
-</div>
+**CarHub** — A global EV import/export marketplace with a premium dark UI, live chat support, dual authentication (Firebase + JWT), and smooth Framer Motion transitions throughout. The design system is built entirely custom — no component library shortcuts.
 
-<br/>
+**PlayHub** — A gaming discovery platform with GSAP-powered scroll animations, a live winners feed, and DaisyUI components composed into a cohesive dark aesthetic. Performance was a first-class concern throughout.
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdurrahman253&custom_title=Contribution%20Activity%20Graph&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=C9D1D9&area_color=00D9FF&area=true&theme=react-dark" alt="Contribution Graph" width="98%"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+**This Portfolio** — A production-grade Next.js site with a custom GSAP/Lenis smooth scroll system, a physics-based cursor (dot + ring + glow trail, three-layer), scramble-text animations, scroll-triggered reveals, dark/light theming via `next-themes`, and a contact system wired to EmailJS. Every interaction is deliberate.
 
 ---
 
-## 🏆 GitHub Trophies & Achievements
+## Engineering Highlights
 
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=abdurrahman253&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultiLanguage)](https://github.com/abdurrahman253)
+Things a code reviewer would notice in my work:
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
----
-
-## 💡 Philosophy & Work Style
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 🎯 My Philosophy
-
-**Consistency is My Superpower**
-
-*"I write code between work shifts — consistency beats everything"*
-
-**Discipline Over Talent**
-
-*"I practice discipline daily, no matter how busy life gets"*
-
-**Simplicity Over Complexity**
-
-*"Turning complex topics into simple, clean solutions"*
-
-**Never Stop Learning**
-
-*"Self-taught developer with unstoppable curiosity"*
-
-</td>
-<td width="50%" align="center">
-
-### 💪 Daily Practice
-
-✅ Learn web development every day
-
-✅ Code between work shifts
-
-✅ Build real solutions to real problems
-
-✅ Improve English continuously
-
-✅ Plan and execute new projects
-
-✅ Explore AI tools and technologies
-
-✅ Practice DSA & System Design
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+- **Scroll architecture** — Built with Lenis for butter-smooth scroll, coordinated with GSAP ScrollTrigger for precise animation timing. The two systems are synchronized without race conditions.
+- **Cursor system** — Three-layer custom cursor (dot, ring, glow blob) animated via GSAP with `overwrite: 'auto'` for conflict-free parallel tweens. Gracefully degrades on touch/mobile via `pointer: coarse` detection.
+- **Theme system** — `next-themes` with `suppressHydrationWarning` correctly handled. Token-based color system applied consistently across all components — no hardcoded dark/light values scattered through JSX.
+- **Component composition** — Complex UI broken into focused primitives (`Field`, `InfoCard`, `SocialLink`, `Toast`) with clear prop contracts. No god components.
+- **Animation cleanup** — Every GSAP context is properly reverted (`ctx.revert()`) on unmount. Every IntersectionObserver is disconnected. No memory leaks.
+- **Mobile-first responsive** — CSS Grid layouts with targeted breakpoints. Order manipulation for mobile reflow. No layout shift on resize.
+- **Form validation** — Client-side validation with animated error states via Framer Motion's `AnimatePresence`. EmailJS integration with loading, success, and error states fully handled.
 
 ---
 
-## 🎯 Current Focus & Future Goals
+## AI-Augmented Workflow
 
-<div align="center">
+Modern development is a collaboration between the developer's judgment and AI capabilities. My workflow reflects that:
 
-```mermaid
-graph LR
-    A[🎯 Current] -->|Mastering| B[Node.js + Express]
-    B --> C[MongoDB & Backend]
-    C -->|Next Step| D[Full Stack Mastery]
-    D -->|Then| E[Python Development]
-    E -->|Future| F[AI/ML Engineering]
-    
-    style A fill:#00d9ff,stroke:#00d9ff,color:#000
-    style B fill:#302b63,stroke:#00d9ff,color:#fff
-    style C fill:#302b63,stroke:#00d9ff,color:#fff
-    style D fill:#302b63,stroke:#00d9ff,color:#fff
-    style E fill:#302b63,stroke:#00d9ff,color:#fff
-    style F fill:#00ff88,stroke:#00ff88,color:#000
-```
+- I use AI tools to accelerate implementation of patterns I already understand — not to generate code I can't explain.
+- I review, refactor, and own every line that ships. If I can't explain why something works, it doesn't go in.
+- I use AI to explore edge cases, think through architecture decisions, and stress-test my own reasoning.
+- The result: I ship faster without sacrificing code quality or depth of understanding.
 
-### 🚀 Roadmap
-
-**📍 Currently Working On:**
-- ⚡ Building scalable MERN applications
-- 🔥 Mastering Node.js, Express.js & MongoDB
-- 🎨 Creating clean, maintainable code
-
-**🎓 Next Learning Goals:**
-- 🐍 Python Programming
-- 🤖 AI/ML Fundamentals
-- 📊 Data Structures & Algorithms
-- 🏗️ System Design Patterns
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+This is the developer profile that matters in 2025 — someone who combines strong fundamentals with effective use of modern tooling.
 
 ---
 
-## 🎨 Featured Projects
+## GitHub Stats
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
-### 🎮 Play Hub
-[![Play Hub](https://github-readme-stats.vercel.app/api/pin/?username=abdurrahman253&repo=play-hub&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/abdurrahman253/play-hub)
-
-**Tech Stack:** React • Node.js • MongoDB • Express
-
-A comprehensive gaming platform with modern features and smooth user experience.
-
-🔗 [View Project →](https://github.com/abdurrahman253/play-hub)
-
-</td>
-<td width="50%">
-
-### 🚗 Car Hub Client
-[![Car Hub](https://github-readme-stats.vercel.app/api/pin/?username=abdurrahman253&repo=car-hub-client&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/abdurrahman253/car-hub-client)
-
-**Tech Stack:** React • Firebase • Tailwind CSS
-
-Modern car marketplace application with real-time updates and intuitive design.
-
-🔗 [View Project →](https://github.com/abdurrahman253/car-hub-client)
-
-</td>
-</tr>
-<tr>
-<td width="50%" colspan="2" align="center">
-
-### 🦸 Hero Apps
-[![Hero Apps](https://github-readme-stats.vercel.app/api/pin/?username=abdurrahman253&repo=Hero-Apps&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/abdurrahman253/Hero-Apps)
-
-**Tech Stack:** MERN Stack • REST API • Modern UI
-
-Full-stack application showcasing complete MERN stack implementation.
-
-🔗 [View Project →](https://github.com/abdurrahman253/Hero-Apps)
-
-</td>
-</tr>
-</table>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdurrahman253&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=DC2626&icon_color=DC2626&text_color=94a3b8&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=abdurrahman253&theme=github-dark-blue&hide_border=true&background=0d0d0d&ring=DC2626&fire=DC2626&currStreakLabel=DC2626&sideLabels=64748b&currStreakNum=f1f5f9&sideNums=f1f5f9&dates=475569" />
 
 <br/>
 
-### 📌 More Projects
-
-[![Explore More](https://img.shields.io/badge/Explore_More_Projects-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdurrahman253?tab=repositories)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrahman253&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=DC2626&text_color=94a3b8&langs_count=8" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+---
+
+## Currently
+
+- 🔨 Deepening backend architecture knowledge — REST API design, auth patterns, database modeling
+- 📐 Exploring TypeScript for type-safe full-stack development
+- 🌱 Open to junior/mid frontend or full-stack roles and freelance projects
+- 📬 Available for work — response time under 24 hours
 
 ---
 
-## 🤝 Connect With Me
+## Let's Work Together
+
+If you need a developer who writes clean, production-ready code and cares about the details — from architecture decisions down to animation easing curves — I'd like to talk.
 
 <div align="center">
 
-### 💬 Let's Collaborate & Build Together!
+[![Email Me](https://img.shields.io/badge/Email_Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abrahman5676@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdurrahman253/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdurrahman253)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AbdurRahma91153)
 
-<br/>
-
-<a href="https://github.com/abdurrahman253">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=00d9ff" alt="GitHub" />
-</a>
-<a href="https://www.facebook.com/abdur.rahman.36807">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-</a>
-<a href="https://x.com/AbdurRahma91153">
-  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-</a>
-<a href="https://www.instagram.com/abdur1015rahman/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="https://wa.me/8801777678707">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-</a>
-
-<br/><br/>
-
-### 📧 Open For:
-
-**💼 Freelance Projects** • **🤝 Collaborations** • **💡 Innovative Ideas** • **🚀 Job Opportunities**
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
----
-
-<div align="center">
-
-## 📈 Contribution Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdurrahman253/abdurrahman253/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdurrahman253/abdurrahman253/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abdurrahman253/abdurrahman253/output/github-contribution-grid-snake.svg">
-</picture>
+**Open to:** Freelance projects · Junior developer roles · Collaborative builds · Remote work
 
 </div>
 
 ---
 
 <div align="center">
-
-### 💭 Daily Inspiration
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
-
-<br/><br/>
-
-### ⚡ Current Mood
-
-```ascii
-  ╔═══════════════════════════════════════╗
-  ║  💻 Coding Mode: ON                   ║
-  ║  ☕ Coffee Level: Always Full         ║
-  ║  🎯 Focus: Backend Development        ║
-  ║  🔥 Motivation: Maximum               ║
-  ║  📚 Learning: Never Stops             ║
-  ╚═══════════════════════════════════════╝
-```
-
-</div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=70&desc=Let's%20build%20something%20amazing%20together!&descSize=16&descAlignY=88" width="100%"/>
-
-<div align="center">
-
-### ⭐ Show Some Love!
-
-*If you like my work, don't forget to ⭐ star my repositories!*
-
-<br/>
-
-<sub>💙 Made with passion & dedication by [Abdur Rahman](https://github.com/abdurrahman253)</sub>
-
-<br/>
-
-**"Code, Learn, Repeat — Every Single Day!"**
-
+<sub>Built with discipline. Shipped with intention. Every single day.</sub>
 </div>
